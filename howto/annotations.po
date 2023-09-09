@@ -98,7 +98,7 @@ msgid ""
 msgstr ""
 "O Python 3.10 adicionou uma nova função para a biblioteca padrão: :func:"
 "`inspect.get_annotations`. No Python 3.10 e nas versões mais recentes, "
-"chamando esta função é a melhor pratica para acessar o dicionário de "
+"chamar esta função é a melhor prática para acessar o dicionário de "
 "anotações de qualquer objeto que suporta anotações. Esta função pode até "
 "\"destextualizar\" anotações textualizadas para você."
 
