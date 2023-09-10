@@ -121,7 +121,7 @@ msgid ""
 "Comprehensive guide for individuals that are interested in contributing to "
 "Python documentation."
 msgstr ""
-"Guia compreensivo para os indivíduos que estão interessados em contribuir "
+"Guia abrangente para os indivíduos que estão interessados em contribuir "
 "com a documentação do Python."
 
 #: ../../bugs.rst:41
